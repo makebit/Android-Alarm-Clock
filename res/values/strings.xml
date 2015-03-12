@@ -26,7 +26,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
     <string name="menu_item_new">New</string>
     <string name="menu_item_save">Save</string>
     <string name="menu_item_delete">Cancel</string>    
-    <string name="menu_item_rate">Rate on Goolge Play</string>
+    <string name="menu_item_rate">Rate on Google Play</string>
     <string name="menu_item_website">Website</string>
     <string name="menu_item_report">Report a Bug</string>
     
